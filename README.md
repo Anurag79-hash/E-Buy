@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome...
 Hey this project created by Anurag
 Please don't try to copy.Just learn and Explore Your Knowledge
@@ -25,3 +26,6 @@ Then set WASM="/mediapipe/wasm", FACE_MODEL="/models/face_landmarker.task", HAND
 
 Coupons: SAVE10 (10% off), FREESHIP.
 
+=======
+# E-Buy
+>>>>>>> 61165169d5133afd1c8d430cc3bb18cfecc26553
